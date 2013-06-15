@@ -1,9 +1,9 @@
 {
-    "train_pairs_path": "~/data/source/CEdata_train_pairs.csv",
-    "train_target_path": "~/data/source/CEdata_train_target.csv",
-    "train_info_path": "~/data/source/CEdata_train_publicinfo.csv",
-    "valid_pairs_path": "~/data/source/CEdata_valid_pairs.csv",
-    "valid_info_path": "~/data/source/CEdata_valid_publicinfo.csv",
-    "model_path": "~/data/source/Models/basic_python_benchmark.pickle",
-    "submission_path": "~/data/source/Submissions/basic_python_benchmark.csv"
+    "train_pairs_path": "/home/joshuajeeson/data/source/CEdata_train_pairs.csv",
+    "train_target_path": "/home/joshuajeeson/data/source/CEdata_train_target.csv",
+    "train_info_path": "/home/joshuajeeson/data/source/CEdata_train_publicinfo.csv",
+    "valid_pairs_path": "/home/joshuajeeson/data/source/CEdata_valid_pairs.csv",
+    "valid_info_path": "/home/joshuajeeson/data/source/CEdata_valid_publicinfo.csv",
+    "model_path": "/home/joshuajeeson/data/source/Models/basic_python_benchmark.pickle",
+    "submission_path": "/home/joshuajeeson/data/source/Submissions/basic_python_benchmark.csv"
 }
